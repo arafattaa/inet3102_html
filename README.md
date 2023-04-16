@@ -1,2 +1,2 @@
-# inet3102_html
+# INET3102_html
 Sample html code
